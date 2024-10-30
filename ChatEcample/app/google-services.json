@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951863664305",
+    "project_id": "chatkotlin01",
+    "storage_bucket": "chatkotlin01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951863664305:android:b7bf4b8927de300de64c90",
+        "android_client_info": {
+          "package_name": "com.example.chatecample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5JCOL2iXSDkRqqN0QE1i5AqD1LFS8Ljo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
